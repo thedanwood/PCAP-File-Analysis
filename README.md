@@ -1,6 +1,6 @@
 # PCAP-File-Analysis
 
-This git repository contains files for a university project. 
+This git repository contains PHP code writtien for my cyber security module in my final year of study.
 
 The aim was to understand the structure and format of PCAP files as well as the format of individual protocol frames inside. 
 
